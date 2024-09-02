@@ -1,0 +1,5 @@
+{
+  "appService.zipIgnorePattern": ["node_modules{,/**}", ".vscode{,/**}"],
+  "appService.defaultWebAppToDeploy": "/subscriptions/d1b051cc-a9dd-4050-b225-8418db9c85be/resourceGroups/leave-pro/providers/Microsoft.Web/sites/leavepro-frontend",
+  "appService.deploySubpath": "."
+}
